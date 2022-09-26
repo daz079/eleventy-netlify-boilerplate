@@ -6,9 +6,6 @@ summary: jhdlkgqscjhvsdc qjksgbfcjkwbfj
 tags:
   - post
 ---
-`﻿``css
-.author {
-  margin: 0 auto;
-  max-width: 75rem;
-}
-`﻿``
+> `H﻿ello`
+>
+> `t﻿here`
